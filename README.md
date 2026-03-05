@@ -9,7 +9,7 @@ Program ini adalah implementasi murni algoritme kriptografi **Data Encryption St
 ### Menggunakan Git (Bagi yang sudah menginstal Git)
 Buka Terminal atau Command Prompt di komputer Anda, lalu ketikkan perintah berikut:
 ```bash
-git clone [https://github.com/USERNAME_ANDA/NAMA_REPOSITORI_ANDA.git](https://github.com/24051204162-max/KRIPTOGRAFI_DES.git)
+git clone [https://github.com/24051204162-max/KRIPTOGRAFI_DES.git](https://github.com/24051204162-max/KRIPTOGRAFI_DES.git)
 ```
 
 ## 🚀 Cara Menjalankan Program
